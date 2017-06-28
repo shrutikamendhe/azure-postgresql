@@ -5,5 +5,5 @@
 /.vs/config/applicationhost.config
 
 # Others
-node_modules/
+#node_modules/
 typings/
